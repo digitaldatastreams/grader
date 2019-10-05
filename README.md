@@ -1,5 +1,5 @@
 # Excel Grader
-This is the official repository for the Excel Grader.
+This repo contains the kernel engine of the socio-technical artifact described in [citation]. The repo has functioning code that is intended for illustrative purposes. As described in the paper, the current version of the engine runs in AWS Lambda for scalability and reliability purposes. A demo version is accessible here: [Link]
 
 
 
